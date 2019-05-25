@@ -109,7 +109,7 @@ public class StylistTest {
     //Deleting...
     @Test
     public void delete_deletesStylist_true() {
-        Stylist Stylist = new Stylist("Mow the lawn", 1);
+        Stylist myStylist = new Stylist("Mow the lawn", 1);
         myStylist.save();
         int myStylistId = myStylist.getId();
         myStylist.delete();
