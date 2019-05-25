@@ -75,7 +75,7 @@ public class ClientTest {
         firstStylist.save();
         Stylist secondStylist = new Stylist("Do the dishes",  myClient.getId());
         secondStylist.save();
-        Stylist[] stylists = new Stylist[][] {firstStylist,secondStylist};
+        Stylist[] stylists = new Stylist[] {firstStylist,secondStylist};
         assertTrue(myClient.getStylists().containsAll(Arrays.asList(stylists)));
     }
 
