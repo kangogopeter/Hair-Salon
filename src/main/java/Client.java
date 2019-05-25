@@ -36,7 +36,7 @@ public class Client {
 
     public static Client find(int id) {
         try (Connection con = DB.sql2o.open()) {
-            String sql = "SELECT * FROM categories where id=:id";
+            String sql = "SELECT * FROM clients where id=:id";
             Client client = con.createQuery(sql)
                     .addParameter("id", id)
                     .executeAndFetchFirst(Client.class);
