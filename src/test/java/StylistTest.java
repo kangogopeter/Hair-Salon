@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 public class StylistTest {
     @Before
     public void setUp() {
-        DB.sql2o = new Sql2o("jdbc:postgresql://localhost:5432/to_do_test", "peter", "1234");
+        DB.sql2o = new Sql2o("jdbc:postgresql://localhost:5432/hair_salon_test", "peter", "1234");
     }
 
     @After
