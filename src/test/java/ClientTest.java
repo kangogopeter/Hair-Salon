@@ -24,7 +24,7 @@ public class ClientTest {
         testClient.save();
         assertTrue(testClient.getId() > 0);
     }
-    //
+
     @Test
     public void save_savesIntoDatabase_true() {
         Client myClient = new Client("Household chores");

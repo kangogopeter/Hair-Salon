@@ -28,10 +28,10 @@
 
 //for the stylist
 
-<h2>New !!!!Task:</h2>
+<h2>New Task:</h2>
 
 <form action="/stylists" method="post">
-    <label for="clientId">Select a client</label>
+    <label for="clientId">Select a List</label>
     <select id='clientId' name='clientId' type='text'>
         #foreach($client in $clients)
         <option value="$client.getId()">$client.getName()</option>
@@ -42,5 +42,5 @@
         <input id="description" name="description" type="text" class="form-control">
     </div>
 
-    <button type="submit" class="btn btn-success">Add!!!! Task</button>
+    <button type="submit" class="btn btn-success">Add Task</button>
 </form>
