@@ -1,0 +1,13 @@
+<h1>Task list!</h1>
+
+#if ($stylists)
+<ul>
+    #foreach ($stylist in $stylists)
+    <li><a href="/stylists/$stylist.getId()">$stylist.getDescription()</a></li>
+    #end
+</ul>
+#else
+<p>No tasks!</p>
+#end
+
+<a href="/stylists/new">Add New Task</a>
