@@ -1,3 +1,16 @@
 .let{
-background-image: url(/images/African Hair Braiding.jpg)
+background-image: url(/images/AfricanHairBraiding.jpg);
+background-attachment: fixed;
+background-size: cover;
+background-repeat: no-repeat;
+}
+#air{
+border-radius: 743px;
+height: 3cm;
+}
+#An{
+background-image: url(/images/medicure.gif);
+background-attachment: fixed;
+background-size: cover;
+background-repeat: no-repeat;
 }

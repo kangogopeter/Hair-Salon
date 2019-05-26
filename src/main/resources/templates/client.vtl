@@ -1,11 +1,11 @@
 <h1>$client.getName() stylists:</h1>
 <img src="/images/Kundaga and Ragina.jpg" id="air">
 
-<ul>
+<ol>
     #foreach($stylist in $client.getStylists())
     <li><a href="/clients/$client.getId()/stylists/$stylist.getId()">$stylist.getDescription()</a></li>
     #end
-</ul>
+</ol>
 
 <a href="/clients/$client.getId()/stylists/new">Place your stylist</a>
 <a href="/clients">All of Your Clients</a>
