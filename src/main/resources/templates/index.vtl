@@ -6,11 +6,11 @@
 
 #if($clients)
 <p>Click On A Stylists To view  A Client:</p>
-<ul>
+<ol>
     #foreach ($client in $clients)
     <li><a href="/clients/$client.getId()">$client.getName()</a></li>
     #end
-</ul>
+</ol>
 #else
 <p>OOH! Sorry! There are no Stylists yet!<img src="/images/silent.gif" id="pair"></p>
 #end

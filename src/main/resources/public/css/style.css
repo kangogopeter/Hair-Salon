@@ -9,7 +9,7 @@ border-radius: 743px;
 height: 3cm;
 }
 #An{
-background-image: url(/images/medicure.gif);
+background-image: url(/images/haira.jpg);
 background-attachment: fixed;
 background-size: cover;
 background-repeat: no-repeat;
@@ -25,17 +25,27 @@ color: yellow;
 }
 
 i{
-color:
+color: white;
 font-size:15px;
 font-family: cursive;
 
 }
+h3{
+color: yellow;
+}
 
+h2{
+color: yellow;
+}
 h1{
 color:white;
+font-size: 28px;
 }
 li{
-color:cyan;
+color: orange;
+}
+ol{
+color: orange;
 }
 
 #rocket{
@@ -47,3 +57,49 @@ background-image: url(/images/pumpkin.gif);
 #rock{
 background-image: url(/images/pumpkin.gif);
 }
+
+#shoot{
+background-image: url(/images/Kundaga and Ragina.jpg);
+background-attachment: fixed;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+#scala{
+ background-image: url(/images/mayhair.jpg);
+ background-attachment: fixed;
+ background-size: cover;
+ background-repeat: no-repeat;
+ }
+p{
+color: pink;
+}
+
+ #plate{
+ background-image: url(/images/African Hair Styles for Black Ladies.jpg);
+ background-attachment: fixed;
+ background-size: cover;
+ background-repeat: no-repeat;
+ }
+
+ #pluto{
+ background-image: url(/images/Kundaga and Ragina.jpg);
+ background-attachment: fixed;
+ background-size: cover;
+ background-repeat: no-repeat;
+ }
+
+ #pool{
+ background-image: url(/images/mayhair.jpg);
+ background-attachment: fixed;
+ background-size: cover;
+ background-repeat: no-repeat;
+ }
+
+ #prey{
+ background-image: url(/images/African Hair Styles for Black Ladies.jpg);
+ background-attachment: fixed;
+ background-size: cover;
+ background-repeat: no-repeat;
+ }
+
