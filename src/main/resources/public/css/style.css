@@ -14,3 +14,9 @@ background-attachment: fixed;
 background-size: cover;
 background-repeat: no-repeat;
 }
+
+.hint{
+background-image: url(/images/hairstyler.jpg);
+background-attachment: fixed;
+background-size: cover;
+}
