@@ -1,11 +1,11 @@
 <h1>Stylists List</h1>
 
 #if ($stylists)
-<ul>
+<ol>
     #foreach ($stylist in $stylists)
     <li><a href="/stylists/$stylist.getId()">$stylist.getDescription()</a></li>
     #end
-</ul>
+</ol>
 #else
 <p>No Clients!</p>
 #end
