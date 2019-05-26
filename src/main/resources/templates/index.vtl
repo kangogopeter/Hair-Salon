@@ -2,10 +2,10 @@
 <button align="right" class="btn btn-warning"><a href="/"><i>HOME.@</i></a></button>
 <h1>Welcome to the Inter Hair-salon</h1>
 
-<h2> All Lists of clients available: </h2>
+<h2> All Lists of stylists available today: </h2>
 
 #if($clients)
-<p>Click On A Stylists To Place A Client:</p>
+<p>Click On A Stylists To view  A Client:</p>
 <ul>
     #foreach ($client in $clients)
     <li><a href="/clients/$client.getId()">$client.getName()</a></li>
