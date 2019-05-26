@@ -20,3 +20,30 @@ background-image: url(/images/hairstyler.jpg);
 background-attachment: fixed;
 background-size: cover;
 }
+p{
+color: yellow;
+}
+
+i{
+color:
+font-size:15px;
+font-family: cursive;
+
+}
+
+h1{
+color:white;
+}
+li{
+color:cyan;
+}
+
+#rocket{
+background-image: url(/images/pumpkin.gif);
+}
+#rot{
+background-image: url(/images/pumpkin.gif);
+}
+#rock{
+background-image: url(/images/pumpkin.gif);
+}
