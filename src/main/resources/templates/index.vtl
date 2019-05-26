@@ -4,22 +4,22 @@
 <h2> All Lists of clients available: </h2>
 
 #if($clients)
-<p>Click on a client to see their stylists:</p>
+<p>Click On A Stylists To Place A Client:</p>
 <ul>
     #foreach ($client in $clients)
     <li><a href="/clients/$client.getId()">$client.getName()</a></li>
     #end
 </ul>
 #else
-<p>OOH! Sorry! There are no clients yet!<img src="/images/silent.gif" id="pair"></p>
+<p>OOH! Sorry! There are no Stylists yet!<img src="/images/silent.gif" id="pair"></p>
 #end
 
-<h2>New Client:</h2>
+<h2>The Stylist:</h2>
 
 <form action="/clients" method="post">
-    <label for="name">Your name</label>
+    <label for="name">Stylists name</label>
     <input id="name" name="name" type="text">
-    <button type="submit" class="btn btn-success">Book now</button>
+    <button type="submit" class="btn btn-success">Start Working</button>
 </form>
 
 
@@ -39,10 +39,10 @@
         #end
     </select>
     <div class="form-group">
-        <label for="description">Style Name</label>
+        <label for="description">Your Name</label>
         <input id="description" name="description" type="text" class="form-control">
     </div>
 
-    <button type="submit" class="btn btn-success">Submit Style</button>
+    <button type="submit" class="btn btn-success">Book Now</button>
 </form>
 </body>
