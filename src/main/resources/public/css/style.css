@@ -137,3 +137,16 @@ border-radius: 44px;
 #sold{
 border-radius: 44px;
 }
+
+.size{
+color: cyan;
+font-style: italic;
+font-size: 44px;
+text-align: center;
+}
+
+#sauce{
+border-radius: 2715px;
+text-align: center;
+padding: 2.15cm;
+}
