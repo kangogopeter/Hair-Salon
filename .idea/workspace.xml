@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f187deba-c4aa-419b-8eae-9b56260ba258" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/view.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/view.vtl" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -52,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/view.vtl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-285">
-              <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+            <state relative-caret-position="201">
+              <caret line="110" column="7" lean-forward="true" selection-start-line="110" selection-start-column="7" selection-end-line="110" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -70,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,14 +133,14 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/index.vtl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/clientspage.vtl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/client-stylist-form.vtl" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/view.vtl" />
         <option value="$PROJECT_DIR$/src/main/resources/public/css/style.css" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/App.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/view.vtl" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="27" />
     <option name="width" value="560" />
     <option name="height" value="708" />
@@ -308,7 +309,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="560" height="708" extended-state="0" />
+    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.69649804" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -326,7 +327,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.46804836" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.44136807" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.31946754" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -594,13 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/view.vtl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285">
-          <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -624,11 +618,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/view.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="110" column="7" lean-forward="true" selection-start-line="110" selection-start-column="7" selection-end-line="110" selection-end-column="7" />
         </state>
       </provider>
     </entry>
