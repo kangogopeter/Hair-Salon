@@ -1,0 +1,152 @@
+.let{
+background-image: url(/images/AfricanHairBraiding.jpg);
+background-attachment: fixed;
+background-size: cover;
+background-repeat: no-repeat;
+}
+#air{
+border-radius: 743px;
+height: 3cm;
+}
+#An{
+background-image: url(/images/haira.jpg);
+background-attachment: fixed;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.hint{
+background-image: url(/images/hairstyler.jpg);
+background-attachment: fixed;
+background-size: cover;
+}
+p{
+color: yellow;
+}
+
+i{
+color: white;
+font-size:15px;
+font-family: cursive;
+
+}
+h3{
+color: yellow;
+}
+
+u{
+color: ghostwhite;
+}
+label{
+color: yellow;
+}
+
+h2{
+color: yellow;
+}
+h1{
+color:white;
+font-size: 28px;
+}
+li{
+color: orange;
+}
+ol{
+color: orange;
+}
+
+#rocket{
+background-image: url(/images/pumpkin.gif);
+}
+#rot{
+background-image: url(/images/pumpkin.gif);
+}
+#rock{
+background-image: url(/images/pumpkin.gif);
+}
+
+#shoot{
+background-image: url(/images/Kundaga and Ragina.jpg);
+background-attachment: fixed;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+#scala{
+ background-image: url(/images/mayhair.jpg);
+ background-attachment: fixed;
+ background-size: cover;
+ background-repeat: no-repeat;
+ }
+p{
+color: green;
+font-size: 20px;
+}
+
+ #plate{
+ background-image: url(/images/African Hair Styles for Black Ladies.jpg);
+ background-attachment: fixed;
+ background-size: cover;
+ background-repeat: no-repeat;
+ }
+
+ #pluto{
+ background-image: url(/images/Kundaga and Ragina.jpg);
+ background-attachment: fixed;
+ background-size: cover;
+ background-repeat: no-repeat;
+ }
+
+ #pool{
+ background-image: url(/images/mayhair.jpg);
+ background-attachment: fixed;
+ background-size: cover;
+ background-repeat: no-repeat;
+ }
+
+ #prey{
+ background-image: url(/images/African Hair Styles for Black Ladies.jpg);
+ background-attachment: fixed;
+ background-size: cover;
+ background-repeat: no-repeat;
+ }
+
+a{
+color: white;
+}
+
+
+
+#cold{
+border-radius: 44px;
+}
+
+#cole{
+border-radius: 44px;
+}
+
+
+#col{
+border-radius: 44px;
+}
+
+#old{
+border-radius: 44px;
+}
+
+#sold{
+border-radius: 44px;
+}
+
+.size{
+color: cyan;
+font-style: italic;
+font-size: 44px;
+text-align: center;
+}
+
+#sauce{
+border-radius: 2715px;
+text-align: center;
+padding: 2.15cm;
+}

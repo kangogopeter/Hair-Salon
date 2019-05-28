@@ -8,7 +8,7 @@ archivesBaseName = 'Hair-salon'
 
 group 'Hair'
 version '1.0-SNAPSHOT'
-applicationName = 'Hair-salon'
+applicationName = 'hair-salone'
 mainClassName = 'App'
 sourceCompatibility = 1.8
 
