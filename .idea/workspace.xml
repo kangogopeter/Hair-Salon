@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f187deba-c4aa-419b-8eae-9b56260ba258" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/view.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/view.vtl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/templates/index.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.vtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/view.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/view.vtl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/index.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/index.vtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/view.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/view.vtl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/ClientTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/ClientTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/StylistTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/StylistTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-ClientTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-ClientTest.xml" afterDir="false" />
@@ -56,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/view.vtl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -83,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.vtl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            <state relative-caret-position="330">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -137,8 +137,8 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/clientspage.vtl" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/resources/public/css/style.css" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/index.vtl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/view.vtl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/index.vtl" />
       </list>
     </option>
   </component>
@@ -667,17 +667,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.vtl">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/view.vtl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/view.vtl">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.vtl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="330">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
         </state>
       </provider>
     </entry>
