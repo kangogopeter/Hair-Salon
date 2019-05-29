@@ -138,13 +138,14 @@ function showSlides() {
 
 #if($clients)
 <p>Click On A Stylists To view  A Client:</p>
-<button class="btn btn-info">
+
 <ol>
+    <button class="btn btn-warning">
     #foreach ($client in $clients)
     <li><a href="/clients/$client.getId()">$client.getName()</a></li>
     #end
+    </button>
 </ol>
-</button>
 #else
 <p>OOH! Sorry! There are no Stylists yet!<img src="/images/silent.gif" id="pair"></p>
 #end
@@ -163,7 +164,7 @@ function showSlides() {
 <form action="/clients" method="post">
     <label for="name">Stylists name</label>
     <input id="name" name="name" type="text">
-    <button type="submit" class="btn btn-success btn-lg">Start Working</button>
+    <button type="submit" class="btn btn-success">Start Working</button>
 
 </form>
 </body>
