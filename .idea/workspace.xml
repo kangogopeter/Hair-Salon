@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f187deba-c4aa-419b-8eae-9b56260ba258" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.vtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/view.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/view.vtl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/templates/index.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/view.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/view.vtl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/index.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/index.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/view.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/view.vtl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/ClientTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/ClientTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/StylistTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/StylistTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-ClientTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-ClientTest.xml" afterDir="false" />
@@ -86,8 +88,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.vtl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            <state relative-caret-position="345">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -676,8 +678,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.vtl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state relative-caret-position="345">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
         </state>
       </provider>
     </entry>
