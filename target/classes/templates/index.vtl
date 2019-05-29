@@ -135,18 +135,19 @@ function showSlides() {
 
 </body>
 
-<button class="btn btn-primary btn-lg">
+
 #if($clients)
 <p>Click On A Stylists To view  A Client:</p>
+<button class="btn btn-info">
 <ol>
     #foreach ($client in $clients)
     <li><a href="/clients/$client.getId()">$client.getName()</a></li>
     #end
 </ol>
+</button>
 #else
 <p>OOH! Sorry! There are no Stylists yet!<img src="/images/silent.gif" id="pair"></p>
 #end
-</button>
 
 <h2>The Stylist:</h2>
 <div class="form-group">
