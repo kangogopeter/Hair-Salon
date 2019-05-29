@@ -12,7 +12,20 @@
         <label for="description">Your Name</label>
         <input id="description" name="description" type="text" class="form-control">
     </div>
-
+     <div>
+    <p><i>confirm payment:</i></p>
+    <form class="form-inline">
+        <div class="form-group">
+            <label class="sr-only" for="exampleInputAmount">Amount (in dollars)</label>
+            <div class="input-group">
+                <div class="input-group-addon">$</div>
+                <input type="text" class="form-control" id="exampleInputAmount" placeholder="Amount">
+                <div class="input-group-addon">.00</div>
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary">Transfer cash</button>
+    </form>
+     </div>
     <button type="submit" class="btn btn-success">Book Now</button>
 </form>
 
