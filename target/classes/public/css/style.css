@@ -9,10 +9,9 @@ border-radius: 743px;
 height: 3cm;
 }
 #An{
-background-color: lightred;
+background-image: url(/images/fore.jpg);
 background-attachment: fixed;
 background-size: cover;
-background-repeat: no-repeat;
 }
 
 .hint{

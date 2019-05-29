@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="f187deba-c4aa-419b-8eae-9b56260ba258" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/resources/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/images/emoj.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/images/emojilaugh.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/images/emojis.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/images/medicure.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/images/what.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/images/world.gif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/view.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/view.vtl" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,11 +33,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/public/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -45,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/view.vtl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="217">
+              <caret line="87" column="6" lean-forward="true" selection-start-line="87" selection-start-column="6" selection-end-line="87" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -74,11 +80,7 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.vtl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -126,8 +128,8 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/clientspage.vtl" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/index.vtl" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/view.vtl" />
         <option value="$PROJECT_DIR$/src/main/resources/public/css/style.css" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/view.vtl" />
       </list>
     </option>
   </component>
@@ -312,7 +314,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20984848" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20984848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -331,7 +333,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848485" weight="0.95114005" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49848485" visible="true" weight="0.95114005" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50151515" side_tool="true" weight="0.95114005" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.31946754" />
       <window_info anchor="bottom" id="Console" order="11" />
@@ -658,24 +660,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/view.vtl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.vtl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/public/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/view.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="87" column="6" lean-forward="true" selection-start-line="87" selection-start-column="6" selection-end-line="87" selection-end-column="6" />
         </state>
       </provider>
     </entry>
