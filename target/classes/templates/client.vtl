@@ -2,12 +2,13 @@
 <h1>$client.getName() stylists:</h1>
 <img src="/images/Kundaga and Ragina.jpg" id="air">
 
+<button class="btn btn-warnig btn-lg btn-block">
 <ol>
     #foreach($stylist in $client.getStylists())
     <li><a href="/clients/$client.getId()/stylists/$stylist.getId()">$stylist.getDescription()</a></li>
     #end
 </ol>
-
+</button>
 <a href="/clients/$client.getId()/stylists/new">Add another client</a>
 <a href="/clients">All of Your Clients</a>
 </body>

@@ -1,6 +1,6 @@
 <body id="shoot">
-<button class="btn btn-info" align="right"><a href="/"><i>HOME</i></a> </button>
-<button class="btn btn-primary" align="right"><a href="/menu"><i>BACK TO STYLIST PAGE</i></a> </button>
+<button class="btn btn-info btn-lg btn-block" align="right"><a href="/"><i>HOME</i></a> </button>
+<button class="btn btn-primary btn-lg btn-block" align="right"><a href="/menu"><i>BACK TO STYLIST PAGE</i></a> </button>
 <h1>$stylist.getDescription()</h1>
 <h2>Completed?:  $stylist.isCompleted()</h2>
 <h2> Belongs to: $client.getName() list.</h2>
@@ -10,11 +10,11 @@
 <form action="/clients/$stylist.getClientId()/stylists/$stylist.getId()" method="post">
     <label for="description">Clients Name</label>
     <input id="description" name="description" type="text">
-    <button type="submit" class="btn btn-info">Replace A Client</button>
+    <button type="submit" class="btn btn-info btn-lg btn-block">Replace A Client</button>
 </form>
 
 <form action="/clients/$stylist.getClientId()/stylists/$stylist.getId()/delete" method="post">
-    <button type="submit" class="btn btn-danger" id="delete-stylist">Delete A Client</button>
+    <button type="submit" class="btn btn-danger btn-lg btn-block" id="delete-stylist">Delete A Client</button>
 </form>
 
 
