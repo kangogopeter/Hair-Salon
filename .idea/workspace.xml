@@ -2,13 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f187deba-c4aa-419b-8eae-9b56260ba258" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ClientTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/client-stylist-success.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/client-stylist-success.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/client-success.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/client-success.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/success.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/success.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/view.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/view.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/client-stylist-success.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/client-stylist-success.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/client-success.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/client-success.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/success.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/success.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/view.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/view.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/client-stylist-success.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/client-stylist-success.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/client-success.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/client-success.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/success.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/success.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/view.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/view.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/ClientTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/ClientTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/StylistTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/StylistTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-ClientTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-ClientTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-StylistTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-StylistTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/build.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/build.tgz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/ClientTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ClientTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/StylistTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/StylistTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ClientTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ClientTest.xml" afterDir="false" />
@@ -39,7 +53,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/media.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-495">
+            <state relative-caret-position="15">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/view.vtl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
@@ -49,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -83,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Stylist.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="45">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -101,11 +124,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ClientTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,7 +139,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/StylistTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
+            <state relative-caret-position="540">
               <caret line="40" column="59" selection-start-line="40" selection-start-column="59" selection-end-line="40" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -157,13 +180,13 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/client-stylist-form.vtl" />
         <option value="$PROJECT_DIR$/src/main/resources/public/css/style.css" />
         <option value="$PROJECT_DIR$/src/main/java/App.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/view.vtl" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/media.sql" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/ClientTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/DB.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/view.vtl" />
       </list>
     </option>
   </component>
@@ -183,45 +206,57 @@
           <expand>
             <path>
               <item name="Hair-salon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hair-salon" type="462c0819:PsiDirectoryNode" />
+              <item name="Hair-salon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="Hair-salon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hair-salon" type="462c0819:PsiDirectoryNode" />
+              <item name="Hair-salon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Hair-salon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hair-salon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hair-salon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hair-salon" type="462c0819:PsiDirectoryNode" />
+              <item name="Hair-salon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Hair-salon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hair-salon" type="462c0819:PsiDirectoryNode" />
+              <item name="Hair-salon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Hair-salon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hair-salon" type="462c0819:PsiDirectoryNode" />
+              <item name="Hair-salon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hair-salon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hair-salon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hair-salon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hair-salon" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,7 +380,7 @@
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20681818" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20984848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -364,7 +399,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.26547232" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.26547232" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.31946754" />
       <window_info anchor="bottom" id="Console" order="11" />
@@ -580,13 +615,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/view.vtl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="111" column="7" selection-start-line="111" selection-start-column="7" selection-end-line="111" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
@@ -604,8 +632,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/media.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-495">
+        <state relative-caret-position="15">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -631,28 +666,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/StylistTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="59" selection-start-line="40" selection-start-column="59" selection-end-line="40" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Stylist.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="45">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -670,10 +686,29 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/ClientTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StylistTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="40" column="59" selection-start-line="40" selection-start-column="59" selection-end-line="40" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/view.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
