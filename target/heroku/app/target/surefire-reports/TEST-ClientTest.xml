@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="7" failures="0" name="ClientTest" time="0.908" errors="0" skipped="0">
+<testsuite tests="7" failures="0" name="ClientTest" time="2.063" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.3+7-Ubuntu-1ubuntu218.04.1"/>
@@ -61,11 +61,11 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="ClientTest" name="equals_returnsTrueIfNamesAretheSame" time="0.324"/>
-  <testcase classname="ClientTest" name="getId_clientsInstantiateWithAnId_1" time="0.074"/>
-  <testcase classname="ClientTest" name="all_returnsAllInstancesOfClient_true" time="0.137"/>
-  <testcase classname="ClientTest" name="save_savesIntoDatabase_true" time="0.067"/>
-  <testcase classname="ClientTest" name="getStylist_retrievesALlStylistsFromDatabase_stylistsList" time="0.149"/>
-  <testcase classname="ClientTest" name="save_assignsIdToObject" time="0.065"/>
-  <testcase classname="ClientTest" name="find_returnsClientWithSameId_secondClient" time="0.092"/>
+  <testcase classname="ClientTest" name="equals_returnsTrueIfNamesAretheSame" time="0.892"/>
+  <testcase classname="ClientTest" name="getId_clientsInstantiateWithAnId_1" time="0.156"/>
+  <testcase classname="ClientTest" name="all_returnsAllInstancesOfClient_true" time="0.126"/>
+  <testcase classname="ClientTest" name="save_savesIntoDatabase_true" time="0.044"/>
+  <testcase classname="ClientTest" name="getStylist_retrievesALlStylistsFromDatabase_stylistsList" time="0.223"/>
+  <testcase classname="ClientTest" name="save_assignsIdToObject" time="0.331"/>
+  <testcase classname="ClientTest" name="find_returnsClientWithSameId_secondClient" time="0.291"/>
 </testsuite>
