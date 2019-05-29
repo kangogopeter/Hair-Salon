@@ -1,6 +1,5 @@
 # Hair-Salon
 Hair-Styles..
-                   ![Mobile Logo](https://github.com/kangogopeter/Mobile-Pet-Creater/blob/master/images/man.jpg)
 
 # Hero-Squad
 HeroSquad
