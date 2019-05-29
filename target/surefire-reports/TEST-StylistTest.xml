@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="11" failures="0" name="StylistTest" time="0.659" errors="0" skipped="0">
+<testsuite tests="11" failures="0" name="StylistTest" time="0.63" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.3+7-Ubuntu-1ubuntu218.04.1"/>
@@ -62,14 +62,14 @@
     <property name="sun.cpu.isalist" value=""/>
   </properties>
   <testcase classname="StylistTest" name="equals_returnsTrueIfDescriptionsAre_the_Same" time="0"/>
-  <testcase classname="StylistTest" name="update_updatesStylistDescription_true" time="0.105"/>
-  <testcase classname="StylistTest" name="all_returnsAllInstancesofStylist_true" time="0.093"/>
-  <testcase classname="StylistTest" name="Stylist_instantiatesCorrectly_true" time="0.01"/>
-  <testcase classname="StylistTest" name="save_returnsTrueIfDescriptionsAre_the_Same" time="0.056"/>
-  <testcase classname="StylistTest" name="find_returnsStylistWithSameId_secondStylist" time="0.095"/>
-  <testcase classname="StylistTest" name="save_assignIdToObject" time="0.054"/>
+  <testcase classname="StylistTest" name="update_updatesStylistDescription_true" time="0.087"/>
+  <testcase classname="StylistTest" name="all_returnsAllInstancesofStylist_true" time="0.084"/>
+  <testcase classname="StylistTest" name="Stylist_instantiatesCorrectly_true" time="0.009"/>
+  <testcase classname="StylistTest" name="save_returnsTrueIfDescriptionsAre_the_Same" time="0.068"/>
+  <testcase classname="StylistTest" name="find_returnsStylistWithSameId_secondStylist" time="0.093"/>
+  <testcase classname="StylistTest" name="save_assignIdToObject" time="0.067"/>
   <testcase classname="StylistTest" name="getId_stylistsInstantiatesWithAnID" time="0.055"/>
-  <testcase classname="StylistTest" name="save_savesClientIdIntoDB_true" time="0.109"/>
-  <testcase classname="StylistTest" name="delete_deletesStylist_true" time="0.072"/>
-  <testcase classname="StylistTest" name="Stylist_instantiatesCorrectly_String" time="0.01"/>
+  <testcase classname="StylistTest" name="save_savesClientIdIntoDB_true" time="0.099"/>
+  <testcase classname="StylistTest" name="delete_deletesStylist_true" time="0.06"/>
+  <testcase classname="StylistTest" name="Stylist_instantiatesCorrectly_String" time="0.008"/>
 </testsuite>
