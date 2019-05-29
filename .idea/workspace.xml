@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f187deba-c4aa-419b-8eae-9b56260ba258" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.vtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/index.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/index.vtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/ClientTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/ClientTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/StylistTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/StylistTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-ClientTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-ClientTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-StylistTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-StylistTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/build.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/build.tgz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ClientTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ClientTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/StylistTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/StylistTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ClientTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ClientTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-StylistTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-StylistTest.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f187deba-c4aa-419b-8eae-9b56260ba258" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -347,7 +334,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.20984848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -368,8 +354,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.95114005" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924242" visible="true" weight="0.95114005" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.5007576" side_tool="true" visible="true" weight="0.95114005" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.31946754" />
       <window_info anchor="bottom" id="Console" order="11" />
       <window_info anchor="bottom" id="DB Execution Console" order="12" />
