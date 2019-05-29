@@ -1,6 +1,21 @@
 <body class="hint">
 <h2>New Client</h2>
 
+<div>
+    <p><i>confirm payment:</i></p>
+    <form class="form-inline">
+        <div class="form-group">
+            <label class="sr-only" for="exampleInputAmount">Amount (in dollars)</label>
+            <div class="input-group">
+                <div class="input-group-addon">$</div>
+                <input type="text" class="form-control" id="exampleInputAmount" placeholder="Amount">
+                <div class="input-group-addon">.00</div>
+            </div>
+        </div>
+        <button class="btn btn-primary btn-lg">Transfer cash</button>
+    </form>
+</div>
+
 <form action="/stylists" method="post">
     <label for="clientId">Select Your Stylist</label>
     <select id='clientId' name='clientId' type='text'>
@@ -12,20 +27,6 @@
         <label for="description">Your Name</label>
         <input id="description" name="description" type="text" class="form-control">
     </div>
-     <div>
-    <p><i>confirm payment:</i></p>
-    <form class="form-inline">
-        <div class="form-group">
-            <label class="sr-only" for="exampleInputAmount">Amount (in dollars)</label>
-            <div class="input-group">
-                <div class="input-group-addon">$</div>
-                <input type="text" class="form-control" id="exampleInputAmount" placeholder="Amount">
-                <div class="input-group-addon">.00</div>
-            </div>
-        </div>
-        <button type="sub" class="btn btn-primary btn-lg">Transfer cash</button>
-    </form>
-     </div>
     <button type="submit" class="btn btn-success btn-lg btn-block">Book Now</button>
 </form>
 
