@@ -1,6 +1,7 @@
 # Hair-Salon
 Hair-Styles..
 
+![Hair-style](https://github.com/kangogopeter/Hair-Salon/blob/master/src/main/resources/public/images/moving.gif)
 # Hero-Squad
 HeroSquad
 ## Accessing my repository
