@@ -24,21 +24,21 @@ git clone https://github.com/kangogopeter/Hair-salon.git
 ##Behaviour Driven Development
 
 
-               --------------------------------------------------------------------------|
-               |                INPUT                      |       OUTPUT                |
-               --------------------------------------------------------------------------|
-               |CREATE DATABASE to_do;                     |created a database for to_do |
-               --------------------------------------------------------------------------
-               | CREATE TABLE clients (id serial PRIMARY   |name to co-ordinate with the |
-               | KEY, name varchar);                       |   clients .java             |
-               --------------------------------------------------------------------------|
-               |CREATE TABLE stylists (id serial PRIMARY   | a table to co-ordinate with |
-               | KEY, description varchar);                |  the java App that is create|
-               |                                           |  d                          |
-               --------------------------------------------------------------------------|
-               |App.java addition of routing               |get and post to retrieve user|
-               |                                           |information and display      |
-               ---------------------------------------------------------------------------
+               -------------------------------------------------------------------------------|
+               |                INPUT                      |       OUTPUT                     |
+               -------------------------------------------------------------------------------|
+               |CREATE DATABASE hair_salon;                |created a database for hair_salon |
+               -------------------------------------------------------------------------------|
+               | CREATE TABLE clients (id serial PRIMARY   |name to co-ordinate with the      |
+               | KEY, name varchar);                       |   clients .java                  |
+               -------------------------------------------------------------------------------|
+               |CREATE TABLE stylists (id serial PRIMARY   | a table to co-ordinate with      |
+               | KEY, description varchar);                |  the java App that is create     |
+               |                                           |  d                               |
+               -------------------------------------------------------------------------------|
+               |App.java addition of routing               |get and post to retrieve user     |
+               |                                           |information and display           |
+               --------------------------------------------------------------------------------
 
 ##How to test
 
