@@ -2,8 +2,8 @@
 Hair-Styles..
 
 ![Hair-style](https://github.com/kangogopeter/Hair-Salon/blob/master/src/main/resources/public/images/moving.gif)
-# Hero-Squad
-HeroSquad
+# Hair-salone
+:The App:~https://hair-salone.herokuapp.com/
 ## Accessing my repository
 ..open terminal and locate it to your desired folder:
 
