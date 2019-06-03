@@ -58,6 +58,6 @@ git clone https://github.com/kangogopeter/Hair-salon.git
 
 
 ##In PSQL in the terminal:
-CREATE DATABASE to_do;
+CREATE DATABASE hair_salon;
 CREATE TABLE clients (id serial PRIMARY KEY, name varchar);
 CREATE TABLE stylists (id serial PRIMARY KEY, description varchar);
